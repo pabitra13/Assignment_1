@@ -1,33 +1,32 @@
 /* Fonts Family: Merriweather & Inter */
 body {
     font-family: 'Inter', sans-serif;
-    font-family: 'Merriweather', serif;
 }
 /* Banner image */
 .banner {
     border: none;
     border-radius: 16px;
     display: flex;
-    margin: 50px 140px 120px;
+    margin: 50px ;
+    flex-shrink: 0px;
+
 }
 /* Banner text */
 .banner-text-1 {
     color: #FFF;
     position: absolute;
-    font-family: Merriweather;
+    font-style: normal;
+    
     font-size: 32px;
     font-weight: 400;
-    line-height: normal;
-    padding-top: 177px;
-    text-align: center;
+    
+    margin: auto;
 }
+
 .banner-text-2 {
     color: #FFF;
     position: absolute;
-    font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
-    line-height: normal;
-    padding: 233px;
-    text-align: center;
+    
 }
