@@ -1,5 +1,5 @@
 /* Fonts Family: Merriweather & Inter */
-.fonts {
+body {
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
@@ -9,7 +9,6 @@
     border-radius: 16px;
     display: flex;
     margin: 50px 140px 120px;
-    
 }
 /* Banner text */
 .banner-text-1 {
@@ -19,7 +18,8 @@
     font-size: 32px;
     font-weight: 400;
     line-height: normal;
-    padding: 177px 530px 380px;
+    padding-top: 177px;
+    text-align: center;
 }
 .banner-text-2 {
     color: #FFF;
@@ -28,5 +28,6 @@
     font-size: 72px;
     font-weight: 900;
     line-height: normal;
-    padding: 233px 344px 177px;
+    padding: 233px;
+    text-align: center;
 }
