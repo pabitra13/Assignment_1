@@ -3,3 +3,30 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
+/* Banner image */
+.banner {
+    border: none;
+    border-radius: 16px;
+    display: flex;
+    margin: 50px 140px 120px;
+    
+}
+/* Banner text */
+.banner-text-1 {
+    color: #FFF;
+    position: absolute;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+    padding: 177px 530px 380px;
+}
+.banner-text-2 {
+    color: #FFF;
+    position: absolute;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: normal;
+    padding: 233px 344px 177px;
+}
