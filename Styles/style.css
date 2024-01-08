@@ -38,7 +38,7 @@ body {
     height: 40px;
     padding-left: 32px;
     padding-right: 40px;
-
+    margin-bottom: 16px;
 }
 
 #banner-text-2 {
@@ -69,12 +69,15 @@ body {
     flex-shrink: 0;
 }
 
-.one {
-    color: #FFF
+.footer .one {
+    color: #FFF;
+    list-style: none;
+    justify-content: space-between;
 }
 
-.two {
+.footer .two {
     align-items: center;
+    padding: 24px;
 
 }
 
