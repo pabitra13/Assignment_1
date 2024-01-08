@@ -56,6 +56,47 @@ body {
 }
 
 /* Main part of body */
+/* Discount section */
+.discount {
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+}
+
+.discount_title {
+    color: red;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.discount-moto {
+    color: red;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-bottom: 48px;
+}
+
+.disc-cat {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+
+#NY-pic {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 
 
