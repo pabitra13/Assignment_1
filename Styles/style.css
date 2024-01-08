@@ -98,6 +98,40 @@ body {
     margin-left: auto;
 }
 
+/* Welcome Section */
+.welcome{
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/Vectorrr.png);
+}
+.mid-party{
+    color: #FFF;
+    width: 642px;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    line-height: 88px;
+    padding-top: 126px;
+    margin-bottom: 0;
+    padding-left: 126px;
+}
+.party-description{
+    color: rgba(255, 255, 255, 0.80);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    width: 697px;
+    padding-left: 126px;
+}
+.join-now{
+    text-align: center;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 160px;
+    margin-bottom: 142px;
+    border: 0;
+}
+
 
 
 
