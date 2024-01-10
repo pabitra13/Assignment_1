@@ -249,26 +249,14 @@ body {
 }
 
 /* footer of body */
-.footer {
+/* .footer {
     background-color: #070211;
     align-items: center;
     width: 1600px;
     height: 609px;
     flex-shrink: 0;
-}
+} */
 
-.footer .one {
-    color: #FFF;
-    list-style: none;
-    justify-content: space-between;
-}
-
-.footer .two {
-    align-items: center;
-    padding: 24px;
-
-}
-
-.three {
-    color: #FFF;
+.address {
+    
 }
