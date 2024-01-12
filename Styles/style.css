@@ -392,7 +392,6 @@ body {
 } */
 
 .foot {
-    width: 1600px;
     height: 609px;
     flex-shrink: 0;
     background: black;
