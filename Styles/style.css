@@ -36,9 +36,9 @@ body {
     line-height: normal;
     width: 259px;
     height: 40px;
-    padding-left: 32px;
+    padding-left: 230px;
     padding-right: 40px;
-    margin-bottom: 16px;
+    padding-bottom: 0;
 }
 
 #banner-text-2 {
@@ -49,10 +49,10 @@ body {
     font-style: normal;
     font-weight: 900;
     line-height: 95px;
-    /* 131.944% */
     width: 632px;
     padding-left: 72px;
     padding-right: 95px;
+    padding-top: 0;
 }
 
 /* Main part of body */
@@ -198,7 +198,7 @@ body {
     color: #FFF;
     background-color: red;
     position: relative;
-    margin-left: 608px;
+    margin-left: 700px;
     margin-right: 609px;
     margin-bottom: 126px;
     padding: 16px 32px;
@@ -257,6 +257,39 @@ body {
     flex-shrink: 0;
 } */
 
+.foot {
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background: black;
+}
+
 .address {
-    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 140px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFF;
+
+}
+.addre{
+    width: 375px;
+    height: 80px;
+}
+
+.links {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 140px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #FFF;
 }
