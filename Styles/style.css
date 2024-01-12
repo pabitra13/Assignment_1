@@ -210,6 +210,66 @@ body {
 
 }
 
+/* Comming Soon sectiion */
+.CommingSoon {
+    display: flex;
+    background: #FFF;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+
+.text {
+    align-items: center;
+}
+
+#NEWBESTOFFER {
+    color: #FF0000;
+}
+
+#ComingSoon {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+#text-des {
+    width: 395px;
+    height: 130px;
+    color: rgba(7, 2, 17, 0.60);
+}
+
+.circle-img {
+    border-radius: 364.844px;
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 49px;
+}
+
+.y2024 {}
+
+#text1 {
+    color: #FF0000;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#text-des1 {
+    width: 276px;
+    height: 96px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#HNY {
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+}
+
 
 /* Subscribe Section */
 .subscribe {
@@ -274,7 +334,8 @@ body {
     color: #FFF;
 
 }
-.addre{
+
+.addre {
     width: 375px;
     height: 80px;
 }
